@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poison2808
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA，and i asm a newbe
+- 🌱 I’m currently learning JAVA，and i am a newbe
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me sent to my email
 
